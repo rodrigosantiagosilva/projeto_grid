@@ -1,0 +1,9 @@
+@import "reset";
+@import "vars";
+@import "layouts";
+@import "grid";
+
+div {
+    border: 5px solid rgb(102, 154, 161);
+    box-sizing: border-box;
+}
